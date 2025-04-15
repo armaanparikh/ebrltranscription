@@ -1,0 +1,4 @@
+openai==1.13.3
+python-dotenv==1.0.0
+numpy==1.26.3
+pydub==0.25.1 
