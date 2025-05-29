@@ -1,6 +1,6 @@
-# Audio Transcription with OpenAI Whisper
+# Audio Transcription with OpenAI Whisper for Education and Brain Sciences Research Lab
 
-A Python project that uses OpenAI's Whisper model to transcribe audio files.
+A Python project that uses OpenAI's Whisper model to transcribe children's reading testing audio.
 
 ## Setup
 
